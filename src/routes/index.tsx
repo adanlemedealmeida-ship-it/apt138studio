@@ -610,7 +610,7 @@ function Community() {
   );
 }
 
-const FAQS = [
+const FAQS: [string, string][] = [
   ["Do I need an appointment?", "Not always. Walk-ins are welcome Tuesday to Saturday, 1 PM – 7 PM, when availability allows. For custom or larger pieces, request a quote first."],
   ["How do I request a tattoo quote?", "Use the quote form on this page. It prepares your request and opens a chat with the studio on Instagram."],
   ["How much does a tattoo cost?", "Each piece is priced according to the project. Share your idea, size and placement to get a quote."],
